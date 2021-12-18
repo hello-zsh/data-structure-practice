@@ -1,7 +1,15 @@
 # data-structure-practice
-数据结构与算法练习
+记录数据结构与算法学习历程
 
-## Study Process Logs
+**Step by Step!!!**
 
-#### 2021/11/28
-重新开始学习
+> 目录结构
+
+├── binary          
+├── hashTable
+├── learning-logs    学习日志
+├── linkedList
+├── queue
+├── skipList
+├── sorts
+└── stack
